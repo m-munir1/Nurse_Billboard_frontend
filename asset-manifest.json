@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://www.nursebillboard.com/static/css/main.840d233e.css",
+    "main.js": "https://www.nursebillboard.com/static/js/main.d498bdb3.js",
+    "static/js/984.3b77cd29.chunk.js": "https://www.nursebillboard.com/static/js/984.3b77cd29.chunk.js",
+    "static/js/875.524cd012.chunk.js": "https://www.nursebillboard.com/static/js/875.524cd012.chunk.js",
+    "static/js/230.60ab4f53.chunk.js": "https://www.nursebillboard.com/static/js/230.60ab4f53.chunk.js",
+    "static/js/921.35ea6fa7.chunk.js": "https://www.nursebillboard.com/static/js/921.35ea6fa7.chunk.js",
+    "index.html": "https://www.nursebillboard.com/index.html",
+    "main.840d233e.css.map": "https://www.nursebillboard.com/static/css/main.840d233e.css.map",
+    "main.d498bdb3.js.map": "https://www.nursebillboard.com/static/js/main.d498bdb3.js.map",
+    "984.3b77cd29.chunk.js.map": "https://www.nursebillboard.com/static/js/984.3b77cd29.chunk.js.map",
+    "875.524cd012.chunk.js.map": "https://www.nursebillboard.com/static/js/875.524cd012.chunk.js.map",
+    "230.60ab4f53.chunk.js.map": "https://www.nursebillboard.com/static/js/230.60ab4f53.chunk.js.map",
+    "921.35ea6fa7.chunk.js.map": "https://www.nursebillboard.com/static/js/921.35ea6fa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840d233e.css",
+    "static/js/main.d498bdb3.js"
+  ]
+}
